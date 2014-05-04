@@ -13,7 +13,7 @@ class DataClient
 
 	static store( value: User[] )
 	{
-		this.data = JSON.stringify( Enumerable.from( value ).select( user => { return { name: user.name, age: user.age }; }).toArray() );
+		this.data = JSON.stringify( Enumerable.from( value ).select( user => { return { name: user.name(), age: user.age() }; }).toArray() );
 		alert( "stored: " + this.data );
 	}
 }
