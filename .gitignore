@@ -1,0 +1,11 @@
+bin/
+obj/
+packages/
+Scripts/
+*.opensdf
+*.sdf
+*.suo
+*.css
+*.js
+*.map
+*.user

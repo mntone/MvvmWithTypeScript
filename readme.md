@@ -1,0 +1,2 @@
+# MVVM with TypeScript
+ブログ エントリー「Visual Studio と TypeScript、Knockout.js、Linq.js を使って、MVVM してみよう！」のサンプルプログラムです。ライセンスは MIT です。 (It is sample program of blog entry (Japanese content only!), “try MVVM using Visual Studio, TypeScript, Knockout.js and Linq.js.” License is MIT.)
